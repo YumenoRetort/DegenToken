@@ -62,10 +62,13 @@ npx hardhat verify <YOUR TOKEN ADDRESS> --network fuji
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+If you are unable to deploy the contract or perform transactions, check that you are:
+
+1) connected to the correct network,
+2) have sufficient AVAX, 
+3) are using the correct address.
+  
+For further concerns, refer to the official Solidity documentation or seek assistance from the Ethereum community forums.
 
 ## Authors
 
